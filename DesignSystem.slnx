@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DesignSystem/PaymentManager.csproj" />
+  <Project Path="RealStateManagement/RealStateManagement.csproj" Id="8429788c-d77e-47d5-99f5-79ac466e8531" />
+  <Project Path="TransportManagement/TransportManagement.csproj" Id="11e8abdd-d9cc-4a4e-a41a-00ace4897524" />
+  <Project Path="VehicleManagement/VehicleManagement.csproj" Id="975539ab-b816-46ed-a355-3e03dd0ae5c6" />
+</Solution>
