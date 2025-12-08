@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Tests/">
+    <Project Path="RealStateManagement.Tests/RealStateManagement.Tests.csproj" Id="1aa09ad2-bf3f-4b0b-89de-a0707a7a0da7" />
+  </Folder>
   <Project Path="DesignSystem/PaymentManager.csproj" />
   <Project Path="RealStateManagement/RealStateManagement.csproj" Id="8429788c-d77e-47d5-99f5-79ac466e8531" />
   <Project Path="TransportManagement/TransportManagement.csproj" Id="11e8abdd-d9cc-4a4e-a41a-00ace4897524" />
