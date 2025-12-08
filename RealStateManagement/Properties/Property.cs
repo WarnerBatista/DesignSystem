@@ -2,7 +2,7 @@
 
 namespace RealStateManagement.Properties
 {
-    internal abstract class Property
+    public abstract class Property
     {
         public string Address { get; set; } = string.Empty;
         public double BasePrice { get; set; }

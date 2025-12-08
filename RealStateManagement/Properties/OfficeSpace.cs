@@ -2,7 +2,7 @@
 
 namespace RealStateManagement.Properties
 {
-    internal class OfficeSpace : Property
+    public class OfficeSpace : Property
     {
         public int NumberOfDesks { get; set; }
 

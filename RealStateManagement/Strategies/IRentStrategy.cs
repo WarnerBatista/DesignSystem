@@ -1,6 +1,6 @@
 ﻿namespace RealStateManagement.Strategies
 {
-    internal interface IRentStrategy
+    public interface IRentStrategy
     {
         double Calculate(double basePrice, double size);
     }

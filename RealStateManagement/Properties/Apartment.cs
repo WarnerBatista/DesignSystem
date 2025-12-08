@@ -2,7 +2,7 @@
 
 namespace RealStateManagement.Properties
 {
-    internal class Apartment : Property
+    public class Apartment : Property
     {
         public int FloorNumber { get; set; }
 

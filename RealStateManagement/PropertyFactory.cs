@@ -3,7 +3,7 @@ using RealStateManagement.Strategies;
 
 namespace RealStateManagement
 {
-    internal static class PropertyFactory
+    public static class PropertyFactory
     {
         public static Property Create(PropertyType type, double basePrice, double size, IRentStrategy strategy, object extraData)
         {

@@ -2,7 +2,7 @@
 
 namespace RealStateManagement
 {
-    internal class RealStateManager
+    public class RealStateManager
     {
         private List<Property> _properties { get; set; } = new();
 

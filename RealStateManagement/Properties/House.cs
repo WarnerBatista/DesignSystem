@@ -2,7 +2,7 @@
 
 namespace RealStateManagement.Properties
 {
-    internal class House : Property
+    public class House : Property
     {
         public bool HasGarden { get; set; }
 

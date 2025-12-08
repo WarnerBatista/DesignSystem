@@ -1,6 +1,6 @@
 ﻿namespace RealStateManagement
 {
-    internal enum PropertyType
+    public enum PropertyType
     {
         Apartment,
         House,
